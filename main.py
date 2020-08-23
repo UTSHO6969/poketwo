@@ -106,7 +106,7 @@ try:
         client.enabled = True
 
     client.loop.create_task(do_tasks())
-    client.run(bot_token)
+    client.run(NzQ3MDIwODEyODMzMzkwNjEz.X0IzWA.XhVXZUmJk04kgli1IuqLGxwsDeA)
 
 except KeyboardInterrupt:
     client.logout()
