@@ -106,7 +106,7 @@ try:
         client.enabled = True
 
     client.loop.create_task(do_tasks())
-    client.run(NzQ3MDIwODEyODMzMzkwNjEz.X0IzWA.XhVXZUmJk04kgli1IuqLGxwsDeA)
+    client.run(NzQ3MDIwODEyODMzMzkwNjEz.X0IzWA.wEGsThHtjbs5ZPjO05JGTsz6ZNk)
 
 except KeyboardInterrupt:
     client.logout()
